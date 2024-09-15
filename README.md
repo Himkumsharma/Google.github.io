@@ -8,7 +8,7 @@
 <dt>Course Code</dt>
 <dd>23ECSE309</dd>
 <dt>Name</dt>
-<dd>Jiya Palrecha</dd>
+<dd>Himanshu Kumar</dd>
 <dt>SRN</dt>
 <dd>01fe21bcs094</dd>
 <dt>Course Instructor</dt>
